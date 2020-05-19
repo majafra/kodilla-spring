@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcf5ce9a-7556-4764-b1e7-62ca3be02e6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +183,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589828367318</updated>
       <workItem from="1589828380219" duration="10231000" />
-      <workItem from="1589843367816" duration="452000" />
+      <workItem from="1589843367816" duration="1270000" />
+      <workItem from="1589886656893" duration="1696000" />
     </task>
     <servers />
   </component>
@@ -236,10 +236,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1589832049113" />
-    <state x="584" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1589843511326">
+    <state x="584" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1589886871306">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="584" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589843511326" />
+    <state x="584" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589886871306" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1589831888960">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
