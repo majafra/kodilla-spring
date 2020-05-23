@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.spring.portfolio.BoardTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-23T16:27:27" hostname="IBM-Komputer" time="0.702">
+  <properties/>
+  <testcase name="testTaskAdd" classname="com.kodilla.spring.portfolio.BoardTestSuite" time="0.702"/>
+  <system-out><![CDATA[18:27:27.944 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26b5e676
+18:27:27.974 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+18:27:28.179 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+18:27:28.183 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+18:27:28.186 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+18:27:28.188 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+18:27:28.199 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'boardConfig'
+18:27:28.260 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'getBoard'
+[mycie]
+[sprzatanie]
+[pranie]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcf5ce9a-7556-4764-b1e7-62ca3be02e6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/calculator/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/LibraryDbController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/shape/ShapesFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/calculator/CalculatorTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/library/LibraryTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/LibraryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/portfolio/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/portfolio/BoardConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/portfolio/TaskList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/portfolio/BoardTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -22,20 +18,19 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/shape/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/shape/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/shape/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/kodilla/spring/SpringRunnerTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/kodilla/spring/SpringRunnerTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.kodilla.spring.forum.ForumUserTestSuite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/library/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/library/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/library/LibraryDbController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/library/LibraryDbController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/kodilla/spring/library/LibraryTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/kodilla/spring/library/LibraryTestSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.kodilla.spring.calculator.CalculatorTestSuite.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.kodilla.spring.forum.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.kodilla.spring.forum.ForumUserTestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.kodilla.spring.calculator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.kodilla.spring.calculator.CalculatorTestSuite.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/shape/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/shape/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/SpringRunnerTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/SpringRunnerTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/LibraryDbController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/LibraryDbController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/library/LibraryTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/library/LibraryTestSuite.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +97,27 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="Gradle.CalculatorTestSuite.testCalculations">
+  <component name="RunManager" selected="Gradle.BoardTestSuite.testTaskAdd">
+    <configuration name="BoardTestSuite.testTaskAdd" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.portfolio.BoardTestSuite.testTaskAdd&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="CalculatorTestSuite.testCalculations" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -123,12 +138,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SpringRunnerTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LibraryTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.SpringRunnerTestSuite&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -143,12 +158,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SpringRunnerTestSuite.testCircleLoadedIntoContainer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LibraryTestSuite.testLoadFromDb" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.SpringRunnerTestSuite.testCircleLoadedIntoContainer&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite.testLoadFromDb&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -163,12 +178,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SpringRunnerTestSuite.testSquareLoadedIntoContainer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LibraryTestSuite.testSaveToDb" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.shape.SpringRunnerTestSuite.testSquareLoadedIntoContainer&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite.testSaveToDb&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -182,27 +197,14 @@
       </ExternalSystemSettings>
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
-    </configuration>
-    <configuration name="SpringRunner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-spring.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kodilla.spring.SpringRunner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.BoardTestSuite.testTaskAdd" />
+        <item itemvalue="Gradle.LibraryTestSuite.testLoadFromDb" />
+        <item itemvalue="Gradle.LibraryTestSuite.testSaveToDb" />
+        <item itemvalue="Gradle.LibraryTestSuite" />
         <item itemvalue="Gradle.CalculatorTestSuite.testCalculations" />
-        <item itemvalue="Gradle.SpringRunnerTestSuite" />
-        <item itemvalue="Gradle.SpringRunnerTestSuite" />
-        <item itemvalue="Gradle.SpringRunnerTestSuite.testSquareLoadedIntoContainer" />
-        <item itemvalue="Spring Boot.SpringRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +220,11 @@
       <updated>1589828367318</updated>
       <workItem from="1589828380219" duration="10231000" />
       <workItem from="1589843367816" duration="1270000" />
-      <workItem from="1589886656893" duration="8917000" />
+      <workItem from="1589886656893" duration="9665000" />
+      <workItem from="1589972903236" duration="455000" />
+      <workItem from="1590012624290" duration="1830000" />
+      <workItem from="1590097688657" duration="8262000" />
+      <workItem from="1590159392465" duration="4057000" />
     </task>
     <servers />
   </component>
@@ -230,26 +236,26 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="678" y="87" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1589838565237" />
-    <state x="891" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1589839869318">
+    <state x="891" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1590106144118">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="891" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589839869318" />
-    <state width="1363" height="346" key="GridCell.Tab.0.bottom" timestamp="1589928556558">
+    <state x="891" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1590106144118" />
+    <state width="1556" height="220" key="GridCell.Tab.0.bottom" timestamp="1590251244419">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1363" height="346" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589928556558" />
-    <state width="1363" height="346" key="GridCell.Tab.0.center" timestamp="1589928556558">
+    <state width="1556" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590251244419" />
+    <state width="1556" height="220" key="GridCell.Tab.0.center" timestamp="1590251244418">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1363" height="346" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589928556558" />
-    <state width="1363" height="346" key="GridCell.Tab.0.left" timestamp="1589928556558">
+    <state width="1556" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590251244418" />
+    <state width="1556" height="220" key="GridCell.Tab.0.left" timestamp="1590251244418">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1363" height="346" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589928556558" />
-    <state width="1363" height="346" key="GridCell.Tab.0.right" timestamp="1589928556558">
+    <state width="1556" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590251244418" />
+    <state width="1556" height="220" key="GridCell.Tab.0.right" timestamp="1590251244418">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1363" height="346" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589928556558" />
+    <state width="1556" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590251244418" />
     <state width="1363" height="346" key="GridCell.Tab.1.bottom" timestamp="1589913742381">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -270,10 +276,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1589832049113" />
-    <state x="584" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1589886871306">
+    <state x="584" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1590247718066">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="584" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589886871306" />
+    <state x="584" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1590247718066" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1589831888960">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
